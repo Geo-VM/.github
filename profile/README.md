@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Welcome to Geo-VM GitHub.
 <!-- Banner -->
 <img src="https://raw.githubusercontent.com/Geo-VM/.github/main/GeoVM-Banner.jpg"/>
 <!-- End -->
